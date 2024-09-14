@@ -11,7 +11,7 @@
 
 
 - ⚡ **Fun fact:** I'm addicted to pop corn :).
-- :bulb: I'm interested in: **React, Vite**
+- :bulb: I'm interested in: **PHP**
 - 💬 Talk to me about volleyball, videogames, Memes, anything that interests you.
 - 🌱 I’m currently pursuing **Knowledge**.
 
