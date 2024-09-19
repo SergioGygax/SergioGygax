@@ -3,10 +3,10 @@
 
 **Enthusiast web developer** 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisiannellodev&label=Profile%20views&color=0e75b6&style=flat" alt="luisiannellodev" /> </p>
+
 <br>
 <br>
- 
+ <img src="https://i.imgur.com/0W6k3Tb.jpeg" alt="banner"/> 
 <br>
 
 
