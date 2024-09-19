@@ -1,12 +1,12 @@
-##  Hi there, i'm Sergio👋
+##  <h1 align="center">Hi there, i'm Sergio👋</h1>
 
 
-**Enthusiast web developer** 
+**<h3 align="center">Enthusiast web developer</h3>** 
 
 
 <br>
 <br>
- <img src="https://i.imgur.com/0W6k3Tb.jpeg" alt="banner"/> 
+ <img src="https://i.imgur.com/0W6k3Tb.jpeg" alt="banner" width="4000" height="400"/> 
 <br>
 
 
